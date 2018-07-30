@@ -59,10 +59,6 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'react_on_rails', '11.0.9'
 gem 'mini_racer', platforms: :ruby
-gem 'prawn'
-gem 'prawn-table'
-
-gem 'pdfkit'
 
 gem 'wicked_pdf'
 gem 'wkhtmltopdf-binary'
